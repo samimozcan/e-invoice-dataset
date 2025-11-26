@@ -1,59 +1,63 @@
 {
-  "invoice_currency": "EUR",
-  "invoice_customer_address": "Kriegsbergstr. 17 Ortsteil Hohenacker 71336 Waiblingen/Waiblingen GERMANY DE",
-  "invoice_customer_country": "Germany",
-  "invoice_customer_name": "Jörn GmbH",
-  "invoice_date": "18-09-2025",
-  "invoice_delivery_term": "DAP",
-  "invoice_id": "APA2025000004675",
-  "invoice_payment_term": "Mal Mukabili (Cash Against Goods)",
-  "invoice_po_number": "222222222",
-  "invoice_shipment_country_of_origin": "Germany",
-  "invoice_supplier_address": "HASANAGA OSB MAH. 15. CADDE No:9 16280 NILÜFER/BURSA TÜRKİYE TR",
-  "invoice_supplier_country": "Turkey",
-  "invoice_supplier_name": "ANGST PFISTER GELISMIŞ TEKNIK ÇÖZÜMLER A.Ş.",
-  "invoice_total_amount": "64.067,70",
-  "invoice_total_package_quantity": "18",
-  "invoice_total_quantity": "19590",
-  "invoice_total_gross_weight": "14275 KG",
-  "invoice_total_net_weight": "13777 KG",
-  "items": [
+  "data": [
     {
-      "invoice_item_commodity_code": "401699520000",
-      "invoice_item_country_of_origin": "Germany",
-      "invoice_item_description": "MUHTELIF BURC (AntiVibration Bush)",
-      "invoice_item_no": "1",
-      "invoice_item_package_quantity": null,
-      "invoice_item_product_id": "LMB-1015-01",
-      "invoice_item_quantity": "4,860",
-      "invoice_item_total_amount": "15.649,20",
-      "invoice_item_unit_price": "3,22000",
-      "invoice_item_unit_type": "Adet"
-    },
-    {
-      "invoice_item_commodity_code": "401699520000",
-      "invoice_item_country_of_origin": "Germany",
-      "invoice_item_description": "MUHTELIF BURC (AntiVibration Bush)",
-      "invoice_item_no": "2",
-      "invoice_item_package_quantity": null,
-      "invoice_item_product_id": "LMB-1016-01",
-      "invoice_item_quantity": "3,510",
-      "invoice_item_total_amount": "10.494,90",
-      "invoice_item_unit_price": "2,99000",
-      "invoice_item_unit_type": "Adet"
-    },
-    {
-      "invoice_item_commodity_code": "401699520000",
-      "invoice_item_country_of_origin": "Germany",
-      "invoice_item_description": "MUHTELIF BURC (AntiVibration Bush)",
-      "invoice_item_no": "3",
-      "invoice_item_package_quantity": null,
-      "invoice_item_product_id": "LMB-1017-00",
-      "invoice_item_quantity": "11,220",
-      "invoice_item_total_amount": "37.923,60",
-      "invoice_item_unit_price": "3,38000",
-      "invoice_item_unit_type": "Adet"
+      "invoice_currency": "EUR",
+      "invoice_customer_address": "Kriegsbergstr. 17 Ortsteil Hohenacker 71336 Waiblingen/Waiblingen GERMANY DE",
+      "invoice_customer_country": "Germany",
+      "invoice_customer_name": "Jörn GmbH",
+      "invoice_date": "18-09-2025",
+      "invoice_delivery_term": "DAP",
+      "invoice_id": "APA2025000004675",
+      "invoice_payment_term": "Mal Mukabili (Cash Against Goods)",
+      "invoice_po_number": "222222222",
+      "invoice_shipment_country_of_origin": "Germany",
+      "invoice_supplier_address": "HASANAGA OSB MAH. 15. CADDE No:9 16280 NILÜFER/BURSA TÜRKİYE TR",
+      "invoice_supplier_country": "Turkey",
+      "invoice_supplier_name": "ANGST PFISTER GELISMIŞ TEKNIK ÇÖZÜMLER A.Ş.",
+      "invoice_total_amount": "64.067,70",
+      "invoice_total_package_quantity": "18",
+      "invoice_total_quantity": "19590",
+      "invoice_total_gross_weight": "14275 KG",
+      "invoice_total_net_weight": "13777 KG",
+      "items": [
+        {
+          "invoice_item_commodity_code": "401699520000",
+          "invoice_item_country_of_origin": "Germany",
+          "invoice_item_description": "MUHTELIF BURC (AntiVibration Bush)",
+          "invoice_item_no": "1",
+          "invoice_item_package_quantity": null,
+          "invoice_item_product_id": "LMB-1015-01",
+          "invoice_item_quantity": "4,860",
+          "invoice_item_total_amount": "15.649,20",
+          "invoice_item_unit_price": "3,22000",
+          "invoice_item_unit_type": "Adet"
+        },
+        {
+          "invoice_item_commodity_code": "401699520000",
+          "invoice_item_country_of_origin": "Germany",
+          "invoice_item_description": "MUHTELIF BURC (AntiVibration Bush)",
+          "invoice_item_no": "2",
+          "invoice_item_package_quantity": null,
+          "invoice_item_product_id": "LMB-1016-01",
+          "invoice_item_quantity": "3,510",
+          "invoice_item_total_amount": "10.494,90",
+          "invoice_item_unit_price": "2,99000",
+          "invoice_item_unit_type": "Adet"
+        },
+        {
+          "invoice_item_commodity_code": "401699520000",
+          "invoice_item_country_of_origin": "Germany",
+          "invoice_item_description": "MUHTELIF BURC (AntiVibration Bush)",
+          "invoice_item_no": "3",
+          "invoice_item_package_quantity": null,
+          "invoice_item_product_id": "LMB-1017-00",
+          "invoice_item_quantity": "11,220",
+          "invoice_item_total_amount": "37.923,60",
+          "invoice_item_unit_price": "3,38000",
+          "invoice_item_unit_type": "Adet"
+        }
+      ],
+      "valid": "true"
     }
-  ],
-  "valid": "true"
+  ]
 }
