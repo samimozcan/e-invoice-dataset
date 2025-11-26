@@ -27,6 +27,7 @@ def process_invoices():
             "invoice_supplier_address": "str or null",
             "invoice_supplier_country": "str or null",
             "invoice_supplier_name": "str or null",
+            "invoice_supplier_vkn": "str or null",
             "invoice_total_amount": "str or null",
             "invoice_total_package_quantity": "str or null",
             "invoice_total_quantity": "str or null",
