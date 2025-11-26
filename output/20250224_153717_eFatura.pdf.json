@@ -10,39 +10,40 @@
         "invoice_delivery_term": "EXW",
         "invoice_id": "TRF2025000000065",
         "invoice_payment_term": "10% advanced payment after co 90% 60 days net after delivery at customer and invoice.",
-        "invoice_po_number": "42840032-2847-4372-9052-48E22FFD7E49",
-        "invoice_shipment_country_of_origin": "ALMANYA",
+        "invoice_po_number": null,
+        "invoice_shipment_country_of_origin": "Türkiye",
         "invoice_supplier_address": "2017.CADDE. No: 4 06909 SİNCAN / ANKARA",
-        "invoice_supplier_country": "ANKARA",
+        "invoice_supplier_country": "Türkiye",
         "invoice_supplier_name": "TEK TRANSFORMATÖR MAKİNA ELEKTRİK SAN.VE TİC. A.Ş.",
-        "invoice_total_amount": "106.105,00 EUR",
-        "invoice_total_package_quantity": "2",
+        "invoice_supplier_vkn": "8330495829",
+        "invoice_total_amount": "106.105,00",
+        "invoice_total_package_quantity": null,
         "invoice_total_quantity": "4",
-        "invoice_total_gross_weight": "19050",
-        "invoice_total_net_weight": "19050",
+        "invoice_total_gross_weight": "19050 KG",
+        "invoice_total_net_weight": "19050 KG",
         "items": [
           {
             "invoice_item_commodity_code": "850422902000",
-            "invoice_item_country_of_origin": "ALMANYA",
+            "invoice_item_country_of_origin": "Türkiye",
             "invoice_item_description": "2500kVA, 20/0.8kV, Dyn5, ONAN, AL/AL, Usc=6%, ±2x2%",
-            "invoice_item_no": "YT-1227_4_1",
-            "invoice_item_package_quantity": "3",
-            "invoice_item_product_id": "850422902000",
-            "invoice_item_quantity": "2500 kVA",
-            "invoice_item_total_amount": "81.315,00 EUR",
-            "invoice_item_unit_price": "27.105,0000 EUR",
+            "invoice_item_no": "1",
+            "invoice_item_package_quantity": null,
+            "invoice_item_product_id": null,
+            "invoice_item_quantity": "3",
+            "invoice_item_total_amount": "81.315,00",
+            "invoice_item_unit_price": "27.105,0000",
             "invoice_item_unit_type": "Adet"
           },
           {
             "invoice_item_commodity_code": "850422901000",
-            "invoice_item_country_of_origin": "ALMANYA",
+            "invoice_item_country_of_origin": "Türkiye",
             "invoice_item_description": "2000kVA, 20/0.800kV, Dyn5, AL/AL, Usc=6%, ±2x2%",
-            "invoice_item_no": "YT-1226_3_01",
-            "invoice_item_package_quantity": "1",
-            "invoice_item_product_id": "850422901000",
-            "invoice_item_quantity": "2000 kVA",
-            "invoice_item_total_amount": "24.790,00 EUR",
-            "invoice_item_unit_price": "24.790,0000 EUR",
+            "invoice_item_no": "2",
+            "invoice_item_package_quantity": null,
+            "invoice_item_product_id": null,
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "24.790,00",
+            "invoice_item_unit_price": "24.790,0000",
             "invoice_item_unit_type": "Adet"
           }
         ]
@@ -50,57 +51,5 @@
     ],
     "valid": "true",
     "page": 1
-  },
-  {
-    "data": [
-      {
-        "invoice_currency": "EUR",
-        "invoice_customer_address": "SALZBURG STRASSE 20 70469 STUTTGART / STUTTGART 70173 ALMANYA",
-        "invoice_customer_country": "ALMANYA",
-        "invoice_customer_name": "BSW BATTERIEN-SCHALTANLAGEN-WICKELGÜTER GMBH&CO.KG",
-        "invoice_date": "21-02-2025",
-        "invoice_delivery_term": "EXW",
-        "invoice_id": "TRF2025000000065",
-        "invoice_payment_term": "10% advanced payment after co 90% 60 days net after delivery at customer and invoice.",
-        "invoice_po_number": "42840032-2847-4372-9052-48E22FFD7E49",
-        "invoice_shipment_country_of_origin": "ALMANYA",
-        "invoice_supplier_address": "2017.CADDE. No: 4 06909 SİNCAN / ANKARA",
-        "invoice_supplier_country": "ANKARA",
-        "invoice_supplier_name": "TEK TRANSFORMATÖR MAKİNA ELEKTRİK SAN.VE TİC. A.Ş.",
-        "invoice_total_amount": "106105.0",
-        "invoice_total_package_quantity": "4.0",
-        "invoice_total_quantity": "4.0",
-        "invoice_total_gross_weight": "19050",
-        "invoice_total_net_weight": "19050",
-        "items": [
-          {
-            "invoice_item_commodity_code": "YT-1227_4_1",
-            "invoice_item_country_of_origin": "ALMANYA",
-            "invoice_item_description": "2500kVA, 20/0.8kV, Dyn5, ONAN, AL/AL, Usc=6%, ±2x2%",
-            "invoice_item_no": "1.0",
-            "invoice_item_package_quantity": "3.0",
-            "invoice_item_product_id": "850422902000",
-            "invoice_item_quantity": "2500.0",
-            "invoice_item_total_amount": "81315.0",
-            "invoice_item_unit_price": "27105.0",
-            "invoice_item_unit_type": "EUR"
-          },
-          {
-            "invoice_item_commodity_code": "YT-1226_3_01",
-            "invoice_item_country_of_origin": "ALMANYA",
-            "invoice_item_description": "2000kVA, 20/0.800kV, Dyn5, AL/AL, Usc=6%, ±2x2%",
-            "invoice_item_no": "2.0",
-            "invoice_item_package_quantity": "1.0",
-            "invoice_item_product_id": "850422901000",
-            "invoice_item_quantity": "2000.0",
-            "invoice_item_total_amount": "24790.0",
-            "invoice_item_unit_price": "24790.0",
-            "invoice_item_unit_type": "EUR"
-          }
-        ]
-      }
-    ],
-    "valid": "true",
-    "page": 2
   }
 ]
