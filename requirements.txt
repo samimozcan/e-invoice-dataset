@@ -1,9 +1,13 @@
 torch
-transformers
+transformers>=4.40.0
 pdf2image
 Pillow
 torchvision
 numpy
 flash-attn
 accelerate
-peft
+peft>=0.10.0
+bitsandbytes>=0.43.0
+wandb
+scikit-learn
+tqdm
