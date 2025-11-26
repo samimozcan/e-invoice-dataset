@@ -1,0 +1,135 @@
+[
+  {
+    "data": [
+      {
+        "invoice_currency": "USD",
+        "invoice_customer_address": "Calik Alexandria For Ready Made Garments Private FreeZone4 Alex",
+        "invoice_customer_country": "Misir",
+        "invoice_customer_name": "CALIKALEXANDRIA FOR READYMADE GARMENTS PRIVATE",
+        "invoice_date": "04-03-2025",
+        "invoice_delivery_term": "CIF",
+        "invoice_id": "BAY202500000304",
+        "invoice_payment_term": "Mal Mukabili",
+        "invoice_po_number": "0dd9e5d0-695b-47d9-938c-dcbabb5d5d56",
+        "invoice_shipment_country_of_origin": "Misir",
+        "invoice_supplier_address": "BAYKAN DENIM KONFEKSIYON A.Ş. MERKEZ : OSMANIYE MAH. OSMANIYE E-5 YAN YOL SK. No:1/2 BAKIRKÖY/ İSTANBUL",
+        "invoice_supplier_country": "Türkiye",
+        "invoice_supplier_name": "BAYKAN DENIM",
+        "invoice_total_amount": "25.555,46USD",
+        "invoice_total_package_quantity": "12,00",
+        "invoice_total_quantity": "266",
+        "invoice_total_gross_weight": "0,00000000",
+        "invoice_total_net_weight": "0,00000000",
+        "items": [
+          {
+            "invoice_item_commodity_code": "845290009000",
+            "invoice_item_country_of_origin": "Misir",
+            "invoice_item_description": "ELK-0587 RULET TEKER",
+            "invoice_item_no": "1",
+            "invoice_item_package_quantity": "120 Adet",
+            "invoice_item_product_id": "ELK-0587",
+            "invoice_item_quantity": "120",
+            "invoice_item_total_amount": "1.724,40USD",
+            "invoice_item_unit_price": "14,37USD",
+            "invoice_item_unit_type": "CU"
+          },
+          {
+            "invoice_item_commodity_code": "845290009000",
+            "invoice_item_country_of_origin": "Misir",
+            "invoice_item_description": "ELK-0587 RULET TEKER",
+            "invoice_item_no": "2",
+            "invoice_item_package_quantity": "100 Adet",
+            "invoice_item_product_id": "ELK-0587",
+            "invoice_item_quantity": "100",
+            "invoice_item_total_amount": "1.189,00USD",
+            "invoice_item_unit_price": "11,89USD",
+            "invoice_item_unit_type": "CU"
+          },
+          {
+            "invoice_item_commodity_code": "845290009000",
+            "invoice_item_country_of_origin": "Misir",
+            "invoice_item_description": "ELK-1101 KOPRU DESTEK SİSTEMİ (DİKİŞ MAKİNESİ PARÇASI)",
+            "invoice_item_no": "3",
+            "invoice_item_package_quantity": "8 Adet",
+            "invoice_item_product_id": "ELK-1101",
+            "invoice_item_quantity": "8",
+            "invoice_item_total_amount": "9.801,12USD",
+            "invoice_item_unit_price": "1.225,14USD",
+            "invoice_item_unit_type": "CU"
+          },
+          {
+            "invoice_item_commodity_code": "845290009000",
+            "invoice_item_country_of_origin": "Misir",
+            "invoice_item_description": "ELK-1102 PUNTEREZ KEÇE BEŞLEME SİSTEMİ (DİKİŞ MAK. PARÇASI)",
+            "invoice_item_no": "4",
+            "invoice_item_package_quantity": "8 Adet",
+            "invoice_item_product_id": "ELK-1102",
+            "invoice_item_quantity": "8",
+            "invoice_item_total_amount": "11.434,64USD",
+            "invoice_item_unit_price": "1.429,33USD",
+            "invoice_item_unit_type": "CU"
+          },
+          {
+            "invoice_item_commodity_code": "847989979019",
+            "invoice_item_country_of_origin": "Misir",
+            "invoice_item_description": "ELK-0600 TURNİKE",
+            "invoice_item_no": "5",
+            "invoice_item_package_quantity": "2 Adet",
+            "invoice_item_product_id": "ELK-0600",
+            "invoice_item_quantity": "2",
+            "invoice_item_total_amount": "1.406,30USD",
+            "invoice_item_unit_price": "703,15USD",
+            "invoice_item_unit_type": "CU"
+          }
+        ]
+      }
+    ],
+    "valid": "true",
+    "page": 1
+  },
+  {
+    "message": "Invalid JSON format in LLM output",
+    "valid": "Invalid JSON format. Could not parse the input JSON.",
+    "page": 2
+  },
+  {
+    "data": [
+      {
+        "invoice_currency": "USD",
+        "invoice_customer_address": null,
+        "invoice_customer_country": null,
+        "invoice_customer_name": null,
+        "invoice_date": "4.03.2025",
+        "invoice_delivery_term": null,
+        "invoice_id": null,
+        "invoice_payment_term": null,
+        "invoice_po_number": null,
+        "invoice_shipment_country_of_origin": null,
+        "invoice_supplier_address": null,
+        "invoice_supplier_country": null,
+        "invoice_supplier_name": null,
+        "invoice_total_amount": "ElliyediBinUçYüzDoksanİki USD.Dört CNT'dir.",
+        "invoice_total_package_quantity": null,
+        "invoice_total_quantity": null,
+        "invoice_total_gross_weight": null,
+        "invoice_total_net_weight": null,
+        "items": [
+          {
+            "invoice_item_commodity_code": null,
+            "invoice_item_country_of_origin": null,
+            "invoice_item_description": null,
+            "invoice_item_no": null,
+            "invoice_item_package_quantity": null,
+            "invoice_item_product_id": null,
+            "invoice_item_quantity": null,
+            "invoice_item_total_amount": null,
+            "invoice_item_unit_price": null,
+            "invoice_item_unit_type": null
+          }
+        ]
+      }
+    ],
+    "valid": "true",
+    "page": 3
+  }
+]

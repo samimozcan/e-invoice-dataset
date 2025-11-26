@@ -1,0 +1,155 @@
+[
+  {
+    "message": "Invalid JSON format in LLM output",
+    "valid": "Invalid JSON format. Could not parse the input JSON.",
+    "page": 1
+  },
+  {
+    "data": [
+      {
+        "invoice_currency": "EUR",
+        "invoice_customer_address": null,
+        "invoice_customer_country": null,
+        "invoice_customer_name": null,
+        "invoice_date": null,
+        "invoice_delivery_term": null,
+        "invoice_id": null,
+        "invoice_payment_term": null,
+        "invoice_po_number": null,
+        "invoice_shipment_country_of_origin": "DE",
+        "invoice_supplier_address": "Erich Schafer GmbH Co. KG Kaner Strasse 11 Siegen Feuersbach 57074 DE",
+        "invoice_supplier_country": "DE",
+        "invoice_supplier_name": "Erich Schafer GmbH Co. KG",
+        "invoice_total_amount": "112.648,41 EUR",
+        "invoice_total_package_quantity": "41 PALET",
+        "invoice_total_quantity": "112",
+        "invoice_total_gross_weight": "19.750,001 KG",
+        "invoice_total_net_weight": "17.947,002 KG",
+        "items": [
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3H132M4D40-KZ",
+            "invoice_item_package_quantity": "60,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "20.127,00 EUR",
+            "invoice_item_unit_price": "335,450 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3H132M4D40-KZ",
+            "invoice_item_package_quantity": "22,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "7.379,90 EUR",
+            "invoice_item_unit_price": "335,450 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3HPA132M4D40-KZ",
+            "invoice_item_package_quantity": "12,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "4.307,16 EUR",
+            "invoice_item_unit_price": "358,930 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3HS132S2C40-KZ",
+            "invoice_item_package_quantity": "12,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "2.856,48 EUR",
+            "invoice_item_unit_price": "238,040 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3H100L4D41-KZ",
+            "invoice_item_package_quantity": "1,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "179,90 EUR",
+            "invoice_item_unit_price": "179,90 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3HSFA132S2C40-KZ",
+            "invoice_item_package_quantity": "30,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "7.426,80 EUR",
+            "invoice_item_unit_price": "247,560 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3HSFA132S2C40KZUL",
+            "invoice_item_package_quantity": "10,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "2.599,40 EUR",
+            "invoice_item_unit_price": "259,940 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3H100L4E41-KZ",
+            "invoice_item_package_quantity": "24,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "5.372,16 EUR",
+            "invoice_item_unit_price": "223,840 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3HSFA132S2D40KZUL",
+            "invoice_item_package_quantity": "9,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "2.901,15 EUR",
+            "invoice_item_unit_price": "322,350 EUR",
+            "invoice_item_unit_type": "Adet"
+          },
+          {
+            "invoice_item_commodity_code": "850152209019",
+            "invoice_item_country_of_origin": "DE",
+            "invoice_item_description": "ELEKTRIK MOTORU",
+            "invoice_item_no": "Q3HS100L2C41-KZ",
+            "invoice_item_package_quantity": "23,0",
+            "invoice_item_product_id": "850152209019",
+            "invoice_item_quantity": "1",
+            "invoice_item_total_amount": "3.857,10 EUR",
+            "invoice_item_unit_price": "167,700 EUR",
+            "invoice_item_unit_type": "Adet"
+          }
+        ]
+      }
+    ],
+    "valid": "true",
+    "page": 2
+  }
+]

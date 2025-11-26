@@ -1,0 +1,106 @@
+[
+  {
+    "invoice_currency": "USD",
+    "invoice_customer_address": "Calik Alexandria For Ready Made Garments Private FreeZone4 Alex",
+    "invoice_customer_country": "Misir",
+    "invoice_customer_name": "CALIKALEXANDRIA FOR READYMADE GARMENTS PRIVATE",
+    "invoice_date": "04-03-2025",
+    "invoice_delivery_term": "CIF",
+    "invoice_id": "BAY202500000304",
+    "invoice_payment_term": "Mal Mukabili",
+    "invoice_po_number": "0dd9e5d0-695b-47d9-938c-dcbabb5d5d56",
+    "invoice_shipment_country_of_origin": "Misir",
+    "invoice_supplier_address": "BAYKAN DENIM KONFEKSIYON A.Ş. MERKEZ : OSMANIYE MAH. OSMANIYE E-5 YAN YOL SK. No:1/2 BAKIRKÖY/ İSTANBUL",
+    "invoice_supplier_country": "Türkiye",
+    "invoice_supplier_name": "BAYKAN DENIM",
+    "invoice_total_amount": 25555.46,
+    "invoice_total_package_quantity": 12.0,
+    "invoice_total_quantity": 266.0,
+    "items": [
+      {
+        "invoice_item_commodity_code": "ELK-0587",
+        "invoice_item_country_of_origin": "Misir",
+        "invoice_item_description": "RULET TEKER",
+        "invoice_item_no": 1,
+        "invoice_item_package_quantity": 120.0,
+        "invoice_item_product_id": "ELK-0587",
+        "invoice_item_quantity": 120.0,
+        "invoice_item_total_amount": 1724.4,
+        "invoice_item_unit_price": 14.37,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "ELK-0587",
+        "invoice_item_country_of_origin": "Misir",
+        "invoice_item_description": "RULET TEKER",
+        "invoice_item_no": 2,
+        "invoice_item_package_quantity": 100.0,
+        "invoice_item_product_id": "ELK-0587",
+        "invoice_item_quantity": 100.0,
+        "invoice_item_total_amount": 1189.0,
+        "invoice_item_unit_price": 11.89,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "ELK-1101",
+        "invoice_item_country_of_origin": "Misir",
+        "invoice_item_description": "KOPRU DESTEK SİSTEMİ (DİKİŞ MAKİNESİ PARÇASI)",
+        "invoice_item_no": 3,
+        "invoice_item_package_quantity": 8.0,
+        "invoice_item_product_id": "ELK-1101",
+        "invoice_item_quantity": 8.0,
+        "invoice_item_total_amount": 9801.12,
+        "invoice_item_unit_price": 1225.14,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "ELK-1102",
+        "invoice_item_country_of_origin": "Misir",
+        "invoice_item_description": "PUNTEREZ KEÇE BEŞLEME SİSTEMİ (DİKİŞ MAK. PARÇASI)",
+        "invoice_item_no": 4,
+        "invoice_item_package_quantity": 8.0,
+        "invoice_item_product_id": "ELK-1102",
+        "invoice_item_quantity": 8.0,
+        "invoice_item_total_amount": 11434.64,
+        "invoice_item_unit_price": 1429.33,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "ELK-0600",
+        "invoice_item_country_of_origin": "Misir",
+        "invoice_item_description": "TURNİKE",
+        "invoice_item_no": 5,
+        "invoice_item_package_quantity": 2.0,
+        "invoice_item_product_id": "ELK-0600",
+        "invoice_item_quantity": 2.0,
+        "invoice_item_total_amount": 1406.3,
+        "invoice_item_unit_price": 703.15,
+        "invoice_item_unit_type": "Adet"
+      }
+    ]
+  },
+  {
+    "message": "Invalid JSON format in LLM output",
+    "valid": "Invalid JSON format. Could not parse the input JSON.",
+    "page": 2
+  },
+  {
+    "invoice_currency": "USD",
+    "invoice_customer_address": null,
+    "invoice_customer_country": null,
+    "invoice_customer_name": null,
+    "invoice_date": "4.03.2025",
+    "invoice_delivery_term": null,
+    "invoice_id": null,
+    "invoice_payment_term": null,
+    "invoice_po_number": null,
+    "invoice_shipment_country_of_origin": null,
+    "invoice_supplier_address": null,
+    "invoice_supplier_country": null,
+    "invoice_supplier_name": null,
+    "invoice_total_amount": 17132.4,
+    "invoice_total_package_quantity": null,
+    "invoice_total_quantity": null,
+    "items": []
+  }
+]

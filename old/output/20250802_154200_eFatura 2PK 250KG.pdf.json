@@ -1,0 +1,118 @@
+[
+  {
+    "invoice_currency": "EUR",
+    "invoice_customer_address": "Kaner Strasse 11 Siegen/Siegen Feuersbach",
+    "invoice_customer_country": "Germany",
+    "invoice_customer_name": "Erich Schafer GmbH Co. KG",
+    "invoice_date": "30.07.2025",
+    "invoice_delivery_term": "DAP",
+    "invoice_id": "WIH2025000000624",
+    "invoice_payment_term": "MAL MUKABILI",
+    "invoice_po_number": "25/V00563",
+    "invoice_shipment_country_of_origin": "Germany",
+    "invoice_supplier_address": "Karaağaç Mahallesi 8 Sokak No:4 A/2 Kapaklı/TEKIRDAG/",
+    "invoice_supplier_country": "Turkey",
+    "invoice_supplier_name": "WAT MOTOR SANAYİ VE TIC. A.S.",
+    "invoice_total_amount": 3050.6,
+    "invoice_total_package_quantity": 2,
+    "invoice_total_quantity": 310,
+    "items": [
+      {
+        "invoice_item_commodity_code": "MOT.KAP. Q2HS132 FC ISLEME BURCLU",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "ELEKTRIK MOTORU YEDEK AKSAMI",
+        "invoice_item_no": 642472201,
+        "invoice_item_package_quantity": 30,
+        "invoice_item_product_id": "850300919019",
+        "invoice_item_quantity": 30,
+        "invoice_item_total_amount": 651.0,
+        "invoice_item_unit_price": 21.7,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "MOT_KAPAGI_Q3H132_FA_6208_ISLEME",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "MOTOR YEDEK AKSAMI",
+        "invoice_item_no": 642440101,
+        "invoice_item_package_quantity": 60,
+        "invoice_item_product_id": "850300989019",
+        "invoice_item_quantity": 60,
+        "invoice_item_total_amount": 1276.8,
+        "invoice_item_unit_price": 21.28,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "KECE 40x62x10",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "CONTA",
+        "invoice_item_no": 641600609,
+        "invoice_item_package_quantity": 120,
+        "invoice_item_product_id": "401693002200",
+        "invoice_item_quantity": 120,
+        "invoice_item_total_amount": 120.0,
+        "invoice_item_unit_price": 1.0,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "MOT.KAP.Q2HS132 FB ISLEME BURCLU",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "ELEKTRIK MOTORU YEDEK AKSAMI",
+        "invoice_item_no": 642472601,
+        "invoice_item_package_quantity": 30,
+        "invoice_item_product_id": "850300919019",
+        "invoice_item_quantity": 30,
+        "invoice_item_total_amount": 673.2,
+        "invoice_item_unit_price": 22.44,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "FAN-KAPAGI QHG112 SAC-ZN Ø8",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "ELEKTRIK MOTORU YEDEK AKSAMI",
+        "invoice_item_no": 643366701,
+        "invoice_item_package_quantity": 10,
+        "invoice_item_product_id": "850300919019",
+        "invoice_item_quantity": 10,
+        "invoice_item_total_amount": 88.0,
+        "invoice_item_unit_price": 8.8,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "FAN-KAPAGI QHG112 SAC-ZN Ø8 DRN-EKL",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "ELEKTRIK MOTORU YEDEK AKSAMI",
+        "invoice_item_no": 643366702,
+        "invoice_item_package_quantity": 10,
+        "invoice_item_product_id": "850300919019",
+        "invoice_item_quantity": 10,
+        "invoice_item_total_amount": 88.0,
+        "invoice_item_unit_price": 8.8,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "FAN-KAPAGI QHG112 SAC-ZN Ø8 DRN-EKL",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "ELEKTRIK MOTORU YEDEK AKSAMI",
+        "invoice_item_no": 643366702,
+        "invoice_item_package_quantity": 10,
+        "invoice_item_product_id": "850300919019",
+        "invoice_item_quantity": 10,
+        "invoice_item_total_amount": 76.8,
+        "invoice_item_unit_price": 7.68,
+        "invoice_item_unit_type": "Adet"
+      },
+      {
+        "invoice_item_commodity_code": "FAN-KAPAGI QHSG112 SAC-ZN Ø10 ESKI",
+        "invoice_item_country_of_origin": "Germany",
+        "invoice_item_description": "ELEKTRIK MOTORU YEDEK AKSAMI",
+        "invoice_item_no": 643369801,
+        "invoice_item_package_quantity": 10,
+        "invoice_item_product_id": "850300919019",
+        "invoice_item_quantity": 10,
+        "invoice_item_total_amount": 76.8,
+        "invoice_item_unit_price": 7.68,
+        "invoice_item_unit_type": "Adet"
+      }
+    ]
+  }
+]

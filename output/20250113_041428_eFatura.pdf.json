@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "invoice_currency": "EUR",
+      "invoice_customer_address": "WIESENSTRASSE 22 KAUFBEUREN, 87600 GERMANY",
+      "invoice_customer_country": "Germany",
+      "invoice_customer_name": "MOULDTEC KUNSTSTOFF GMBH",
+      "invoice_date": "02-01-2025",
+      "invoice_delivery_term": "DAP",
+      "invoice_id": "03FDC48E-9116-481B-A348-09BBB8AF2C5B",
+      "invoice_payment_term": "Karayolu",
+      "invoice_po_number": "03FDC48E-9116-481B-A348-09BBB8AF2C5B",
+      "invoice_shipment_country_of_origin": "Türkiye",
+      "invoice_supplier_address": "HACI HAYDAR GÖRDEBİL BULV. ANADOLU RULMAN A.Ş., No: 81010 CEDİDİYE MAH./ DÜZCE",
+      "invoice_supplier_country": "Türkiye",
+      "invoice_supplier_name": "ANADOLU RULMAN İMALAT SAN. VE TİC. A.Ş.",
+      "invoice_total_amount": "11.150,00 EUR",
+      "invoice_total_package_quantity": "2",
+      "invoice_total_quantity": "50.000",
+      "invoice_total_gross_weight": "1535 KG",
+      "invoice_total_net_weight": "1450 KG",
+      "items": [
+        {
+          "invoice_item_commodity_code": "84821090011",
+          "invoice_item_country_of_origin": "Türkiye",
+          "invoice_item_description": "BALL BEARING DIN 625-1 - 6002 J OUTSIDE DIAMETER = 32mm tek sira sabit bilyalt rulman",
+          "invoice_item_no": "1",
+          "invoice_item_package_quantity": "2",
+          "invoice_item_product_id": "03FDC48E-9116-481B-A348-09BBB8AF2C5B",
+          "invoice_item_quantity": "50.000",
+          "invoice_item_total_amount": "11.150,00 EUR",
+          "invoice_item_unit_price": "0,2230EUR",
+          "invoice_item_unit_type": "Adet"
+        }
+      ]
+    }
+  ],
+  "valid": "true"
+}

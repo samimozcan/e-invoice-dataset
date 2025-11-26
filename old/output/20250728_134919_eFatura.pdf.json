@@ -1,0 +1,96 @@
+[
+  {
+    "invoice_currency": "EUR",
+    "invoice_customer_address": "ANSEMSSTRÄGE 43, 41334 / NETTETAL ALMANYA",
+    "invoice_customer_country": "ALMANYA",
+    "invoice_customer_name": "Cemal Yüksek",
+    "invoice_date": "22-07-2025",
+    "invoice_delivery_term": "NETTETEL ALMANYA",
+    "invoice_id": "EFA2025000000211",
+    "invoice_payment_term": "NETTETEL ALMANYA",
+    "invoice_po_number": "62aaf598-3e64-4adb-8908-905dd46b18bc",
+    "invoice_shipment_country_of_origin": "NETTETEL ALMANYA",
+    "invoice_supplier_address": "İvedik Osb Ağaç İşleri Sitesi 1358. sok No:15 Yenimahalle/ Ankara",
+    "invoice_supplier_country": "İSTANBUL",
+    "invoice_supplier_name": "Mudesa Mutfak Dekorasyon San. İnş. Gıda Kirt. Tic. Taah. Ltd. Şti.",
+    "invoice_total_amount": 2000.0,
+    "invoice_total_package_quantity": 1.0,
+    "invoice_total_quantity": 6.0,
+    "invoice_total_gross_weight": null,
+    "invoice_total_net_weight": null,
+    "items": [
+      {
+        "invoice_item_commodity_code": "940340",
+        "invoice_item_country_of_origin": "NETTETEL ALMANYA",
+        "invoice_item_description": "MUTFAK DOLABI (1 TAKIM)",
+        "invoice_item_no": 1.0,
+        "invoice_item_package_quantity": 1.0,
+        "invoice_item_product_id": "940340",
+        "invoice_item_quantity": 1.0,
+        "invoice_item_total_amount": 850.0,
+        "invoice_item_unit_price": 850.0,
+        "invoice_item_unit_type": "000 EUR"
+      },
+      {
+        "invoice_item_commodity_code": "940340",
+        "invoice_item_country_of_origin": "NETTETEL ALMANYA",
+        "invoice_item_description": "MUTFAK TEZGAHI",
+        "invoice_item_no": 2.0,
+        "invoice_item_package_quantity": 1.0,
+        "invoice_item_product_id": "940340",
+        "invoice_item_quantity": 1.0,
+        "invoice_item_total_amount": 450.0,
+        "invoice_item_unit_price": 450.0,
+        "invoice_item_unit_type": "000 EUR"
+      },
+      {
+        "invoice_item_commodity_code": "940360",
+        "invoice_item_country_of_origin": "NETTETEL ALMANYA",
+        "invoice_item_description": "YEMEK MASASI TAKIMI",
+        "invoice_item_no": 3.0,
+        "invoice_item_package_quantity": 1.0,
+        "invoice_item_product_id": "940360",
+        "invoice_item_quantity": 1.0,
+        "invoice_item_total_amount": 100.0,
+        "invoice_item_unit_price": 100.0,
+        "invoice_item_unit_type": "000 EUR"
+      },
+      {
+        "invoice_item_commodity_code": "441829",
+        "invoice_item_country_of_origin": "NETTETEL ALMANYA",
+        "invoice_item_description": "KAPI KANADİ",
+        "invoice_item_no": 4.0,
+        "invoice_item_package_quantity": 1.0,
+        "invoice_item_product_id": "441829",
+        "invoice_item_quantity": 1.0,
+        "invoice_item_total_amount": 50.0,
+        "invoice_item_unit_price": 50.0,
+        "invoice_item_unit_type": "000 EUR"
+      },
+      {
+        "invoice_item_commodity_code": "940350",
+        "invoice_item_country_of_origin": "NETTETEL ALMANYA",
+        "invoice_item_description": "GARDROP DOLABI",
+        "invoice_item_no": 5.0,
+        "invoice_item_package_quantity": 1.0,
+        "invoice_item_product_id": "940350",
+        "invoice_item_quantity": 1.0,
+        "invoice_item_total_amount": 450.0,
+        "invoice_item_unit_price": 450.0,
+        "invoice_item_unit_type": "000 EUR"
+      },
+      {
+        "invoice_item_commodity_code": "940360",
+        "invoice_item_country_of_origin": "NETTETEL ALMANYA",
+        "invoice_item_description": "BANYO DOLABI",
+        "invoice_item_no": 6.0,
+        "invoice_item_package_quantity": 1.0,
+        "invoice_item_product_id": "940360",
+        "invoice_item_quantity": 1.0,
+        "invoice_item_total_amount": 100.0,
+        "invoice_item_unit_price": 100.0,
+        "invoice_item_unit_type": "000 EUR"
+      }
+    ]
+  }
+]

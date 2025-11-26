@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "invoice_currency": "EUR",
+      "invoice_customer_address": "DÜNGSTRUPER STRASSE NR.46 D-27793 WILDESHAUSEN WILDESHAUSEN /WILDESHAUSEN DE Almanya",
+      "invoice_customer_country": "Almanya",
+      "invoice_customer_name": "HYDROTEC TECHNOLOGIES AG",
+      "invoice_date": "18-02-2025",
+      "invoice_delivery_term": "EXW",
+      "invoice_id": "AKY2025000000019",
+      "invoice_payment_term": "PEŞIN",
+      "invoice_po_number": "6CEB43C4-622C-4A6D-AD4D-734F4381B950",
+      "invoice_shipment_country_of_origin": "Türkiye",
+      "invoice_supplier_address": "FE'Zİ ÇAKMAK MAH. AYYILDIZ CAD. A BLOKNO:103/F // KONYA",
+      "invoice_supplier_country": "Türkiye",
+      "invoice_supplier_name": "AKAY MODEL SANAYİ VE TİC. LTD. ŞTİ.",
+      "invoice_total_amount": "28.250,00 EUR",
+      "invoice_total_package_quantity": "3",
+      "invoice_total_quantity": "11",
+      "invoice_total_gross_weight": "1140 KG",
+      "invoice_total_net_weight": "920 KG",
+      "items": [
+        {
+          "invoice_item_commodity_code": "848030901011",
+          "invoice_item_country_of_origin": "Türkiye",
+          "invoice_item_description": "ALUMINIUM MOULD",
+          "invoice_item_no": "1",
+          "invoice_item_package_quantity": "3",
+          "invoice_item_product_id": "848030901011",
+          "invoice_item_quantity": "11",
+          "invoice_item_total_amount": "28.250,00 EUR",
+          "invoice_item_unit_price": "2.568,1818 EUR",
+          "invoice_item_unit_type": "Adet"
+        }
+      ]
+    }
+  ],
+  "valid": "true"
+}
