@@ -1,0 +1,65 @@
+{
+  "model_name_or_path": "./deepseek_ocr_code",
+  "dataset_path": "./dataset",
+  "output_dir": "./checkpoints",
+
+  "training": {
+    "num_train_epochs": 10,
+    "per_device_train_batch_size": 1,
+    "per_device_eval_batch_size": 1,
+    "gradient_accumulation_steps": 8,
+    "learning_rate": 2e-5,
+    "weight_decay": 0.01,
+    "warmup_ratio": 0.1,
+    "lr_scheduler_type": "cosine",
+    "max_grad_norm": 1.0,
+    "fp16": false,
+    "bf16": true,
+    "logging_steps": 10,
+    "save_steps": 100,
+    "eval_steps": 50,
+    "save_total_limit": 3,
+    "evaluation_strategy": "steps",
+    "save_strategy": "steps",
+    "load_best_model_at_end": true,
+    "metric_for_best_model": "eval_loss",
+    "greater_is_better": false,
+    "dataloader_num_workers": 4,
+    "remove_unused_columns": false,
+    "report_to": "tensorboard"
+  },
+
+  "model": {
+    "freeze_vision_encoder": false,
+    "freeze_llm": false,
+    "use_lora": true,
+    "lora_r": 64,
+    "lora_alpha": 128,
+    "lora_dropout": 0.05,
+    "lora_target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj"
+    ]
+  },
+
+  "data": {
+    "max_length": 4096,
+    "image_size": 1024,
+    "patch_size": 640,
+    "use_dynamic_preprocess": true,
+    "min_patches": 2,
+    "max_patches": 9
+  },
+
+  "generation": {
+    "max_new_tokens": 8192,
+    "temperature": 0.0,
+    "do_sample": false,
+    "no_repeat_ngram_size": 20
+  }
+}

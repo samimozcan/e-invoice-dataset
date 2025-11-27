@@ -1,0 +1,45 @@
+{
+  "total_samples": 11,
+  "splits": {
+    "train": 9,
+    "val": 1,
+    "test": 1
+  },
+  "single_image_samples": 5,
+  "multi_image_samples": 6,
+  "schema": {
+    "invoice_currency": "str or null",
+    "invoice_customer_address": "str or null",
+    "invoice_customer_country": "str or null",
+    "invoice_customer_name": "str or null",
+    "invoice_date": "str or null",
+    "invoice_delivery_term": "str or null",
+    "invoice_id": "str or null",
+    "invoice_payment_term": "str or null",
+    "invoice_po_number": "str or null",
+    "invoice_shipment_country_of_origin": "str or null",
+    "invoice_supplier_address": "str or null",
+    "invoice_supplier_country": "str or null",
+    "invoice_supplier_name": "str or null",
+    "invoice_supplier_vkn": "str or null",
+    "invoice_total_amount": "str or null",
+    "invoice_total_package_quantity": "str or null",
+    "invoice_total_quantity": "str or null",
+    "invoice_total_gross_weight": "str or null",
+    "invoice_total_net_weight": "str or null",
+    "items": [
+      {
+        "invoice_item_commodity_code": "str or null",
+        "invoice_item_country_of_origin": "str or null",
+        "invoice_item_description": "str or null",
+        "invoice_item_no": "str or null",
+        "invoice_item_package_quantity": "str or null",
+        "invoice_item_product_id": "str or null",
+        "invoice_item_quantity": "str or null",
+        "invoice_item_total_amount": "str or null",
+        "invoice_item_unit_price": "str or null",
+        "invoice_item_unit_type": "str or null"
+      }
+    ]
+  }
+}
